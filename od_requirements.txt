@@ -1,0 +1,6 @@
+tensorflow
+webcolors
+tensorflow_hub
+PyQt5==5.15.1
+PyQt5-sip
+XlsxWriter==1.3.7
